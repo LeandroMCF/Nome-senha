@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WTPegFBVZeUC204oc9E+O801Zf2bVsnI9CuvDq7MVlIdn7JCppoiqrgsiW3myz0vblZWMKrbamF8J1mtBugpIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Nome-senha\\Nome-senha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
