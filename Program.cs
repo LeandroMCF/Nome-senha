@@ -29,7 +29,7 @@ namespace Nome_senha
                 senhac = senha1.ToUpper();
                 while (senha1 != senha2)
                 {
-                    Console.WriteLine("Senha inválida. digite sua senha novamente: ");
+                    Console.Write("Senha inválida. digite sua senha novamente: ");
                     senha1 = Console.ReadLine();
                     Console.Write("Confirmar senha: ");
                     senha2 = Console.ReadLine();
@@ -71,7 +71,7 @@ namespace Nome_senha
                             senhac = senha1.ToUpper();
                             break;
                     }
-                    Console.WriteLine($"Usuario: {nome} \n Senha: {senha1}");
+                    Console.WriteLine($"------------------------ \n Usuario: {nome} \n Senha: {senha1} \n ------------------------");
                 }
                 Console.WriteLine("Você deseja cadastrar um outro usuário? \n [1] Para cadastrar um novo usuairio \n Qualquer número para finalizar");
                 rep = int.Parse(Console.ReadLine());
