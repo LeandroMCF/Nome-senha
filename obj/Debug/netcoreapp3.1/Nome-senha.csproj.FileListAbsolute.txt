@@ -11,3 +11,16 @@ C:\Users\leand\OneDrive\Área de Trabalho\Nome-senha\obj\Debug\netcoreapp3.1\Nom
 C:\Users\leand\OneDrive\Área de Trabalho\Nome-senha\obj\Debug\netcoreapp3.1\Nome-senha.dll
 C:\Users\leand\OneDrive\Área de Trabalho\Nome-senha\obj\Debug\netcoreapp3.1\Nome-senha.pdb
 C:\Users\leand\OneDrive\Área de Trabalho\Nome-senha\obj\Debug\netcoreapp3.1\Nome-senha.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Nome-senha\bin\Debug\netcoreapp3.1\Nome-senha.exe
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Nome-senha\bin\Debug\netcoreapp3.1\Nome-senha.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Nome-senha\bin\Debug\netcoreapp3.1\Nome-senha.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Nome-senha\bin\Debug\netcoreapp3.1\Nome-senha.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Nome-senha\bin\Debug\netcoreapp3.1\Nome-senha.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Nome-senha\bin\Debug\netcoreapp3.1\Nome-senha.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Nome-senha\obj\Debug\netcoreapp3.1\Nome-senha.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Nome-senha\obj\Debug\netcoreapp3.1\Nome-senha.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Nome-senha\obj\Debug\netcoreapp3.1\Nome-senha.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Nome-senha\obj\Debug\netcoreapp3.1\Nome-senha.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Nome-senha\obj\Debug\netcoreapp3.1\Nome-senha.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Nome-senha\obj\Debug\netcoreapp3.1\Nome-senha.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Nome-senha\obj\Debug\netcoreapp3.1\Nome-senha.genruntimeconfig.cache

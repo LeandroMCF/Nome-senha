@@ -59,6 +59,14 @@ namespace Nome_senha
                             Console.Write("Confirmar senha: ");
                             senha2 = Console.ReadLine();
                             senhac = senha1.ToUpper();
+                            while (senha1 != senha2)
+                                {
+                                    Console.Write("Senha inválida. digite sua senha novamente: ");
+                                    senha1 = Console.ReadLine();
+                                    Console.Write("Confirmar senha: ");
+                                    senha2 = Console.ReadLine();
+                                    senhac = senha1.ToUpper();
+                                }
                             break;
                         case 3:
                             Console.Write("Insira o nome do usuario: ");
